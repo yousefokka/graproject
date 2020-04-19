@@ -1,0 +1,52 @@
+body{
+margin: auto;
+}
+.container1{
+    margin-top: 90px;
+    width: 50%;
+    width: 900px;
+}
+.txt-input{
+background: url('images/user-icon.png') left no-repeat;
+box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.5);
+outline: none;
+text-transform: capitalize;
+padding:15px;
+padding-left:21px;
+border: 0px none;
+width: 30rem;
+height: 2.5rem;
+margin-bottom: 5px;
+}
+
+.col1{
+    margin: auto;
+    height: 450px;
+    background-color: white;
+}
+.col2{
+    text-align: center;
+    margin: auto;
+    height: 450px;
+    background-color: #0F395E;
+}
+.imgbg{
+    background-image: url('../assets/dollar.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+/*class button form 1*/
+.btn-primary{
+    color: white;
+    background-color: #0F395E;
+    margin-left: 10px; 
+    border-radius: 20px;
+    width: 100px;
+}
+/*class button form 2*/
+.btn{
+    margin-left: 10px; 
+    border-radius: 20px; 
+    width: 100px;
+}
